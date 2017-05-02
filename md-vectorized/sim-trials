@@ -1,0 +1,11 @@
+size,vectorized,time
+125,false,1.542
+125,true,1.089
+500,false,18.988
+500,true,8.232
+1000,false,63.102
+1000,true,28.350
+2000,false,211.110
+2000,true,94.955
+4000,false,776.205
+4000,true,337.748
